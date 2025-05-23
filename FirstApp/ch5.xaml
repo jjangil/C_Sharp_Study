@@ -20,6 +20,7 @@
                 </Image>
             </Label>
             <Label Target="{Binding ElementName=txtName}">
+                <!-- 바인딩은 무언가와 연결할 때 사용한다고 생각하면됨 -->
                 <StackPanel Orientation="Horizontal">
                     <Image Width="50" 
                   Source="https://cdn0.iconfinder.com/data/icons/free-daily-icon-set/512/Dollar-512.png">
