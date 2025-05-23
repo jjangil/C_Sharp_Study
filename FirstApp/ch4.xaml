@@ -11,7 +11,7 @@
             <RowDefinition/>
             <RowDefinition/>
         </Grid.RowDefinitions>
-        <StackPanel Orientation="Horizontal"><!-- 스택 패널은 자기 위치를 고정-->
+        <StackPanel Orientation="Vertical"><!-- 스택 패널은 자기 위치를 고정-->
             <Button Content="버튼1"/>
             <Button Content="버튼1"/>
             <Button Content="버튼1"/>
